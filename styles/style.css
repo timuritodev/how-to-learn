@@ -24,7 +24,6 @@
 }
 
 .header__title {
-    display: flex;
     width: 730px;
     margin-left: 64px;
     line-height: 96px;
@@ -266,7 +265,6 @@
     margin: auto;
     width: 90%;
     min-height: 350px;
-    margin-bottom: 40px;
 }
 
 .footer__column_content_copyright {
@@ -277,7 +275,6 @@
 }
 
 .logo_place_footer {
-    display: flex;
     width: 228px;
     height: 32px;
 }
@@ -314,6 +311,9 @@
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
+    list-style-type: none;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
 }
 
 .footer__column_content_social {
