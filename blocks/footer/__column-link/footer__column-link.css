@@ -4,4 +4,6 @@
     font-size: 18px;
     font-weight: normal;
     text-decoration: none;
+    list-style-type: none;
+    padding-left: 0;
 }

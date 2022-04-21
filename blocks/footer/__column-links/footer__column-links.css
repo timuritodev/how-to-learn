@@ -6,6 +6,9 @@
     font-size: 18px;
     font-weight: normal;
     list-style-type: none;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
+    transition: opacity 0.4s;
+}
+
+.footer__column-links:hover {
+    opacity: 0.4;
 }
