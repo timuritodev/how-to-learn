@@ -1,6 +1,6 @@
 .feynman__link {
     position: absolute;
-    height: 445px;
+    top: 50%;
     color: #2f80ed;
     right: 48px;
     text-decoration: none;
